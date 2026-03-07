@@ -1,0 +1,70 @@
+name: Update Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      shop_file_id:
+        description: 'Google Drive file ID for shop.json'
+        required: true
+        type: string
+      limited_file_id:
+        description: 'Google Drive file ID for limited.json'
+        required: true
+        type: string
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download JSON files from Google Drive
+        run: |
+          mkdir -p json
+          curl -sL "https://drive.google.com/uc?id=${{ inputs.shop_file_id }}&export=download" -o json/shop.json
+          curl -sL "https://drive.google.com/uc?id=${{ inputs.limited_file_id }}&export=download" -o json/limited.json
+
+      - name: Validate JSON
+        run: |
+          for f in json/shop.json json/limited.json; do
+            if ! python3 -m json.tool "$f" > /dev/null 2>&1; then
+              echo "Invalid JSON: $f"
+              exit 1
+            fi
+          done
+          echo "All JSON files are valid"
+
+      - name: Check for changes
+        id: diff
+        run: |
+          git add json/shop.json json/limited.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate version.json
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          BASE_URL="https://gyumesy.github.io/gyumeshi-rader-data"
+          VERSION=$(date -u +'%Y%m%d%H%M%S')
+          cat <<EOF > json/version.json
+          {
+            "version": "$VERSION",
+            "shop_url": "$BASE_URL/json/shop.json",
+            "limited_url": "$BASE_URL/json/limited.json"
+          }
+          EOF
+          git add json/version.json
+
+      - name: Commit and push
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update data $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
