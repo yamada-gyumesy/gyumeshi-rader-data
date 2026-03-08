@@ -50,7 +50,7 @@ jobs:
       - name: Generate version.json
         if: steps.diff.outputs.changed == 'true'
         run: |
-          BASE_URL="https://gyumesy.github.io/gyumeshi-rader-data"
+          BASE_URL="https://yamada-gyumesy.github.io/gyumeshi-rader-data"
           VERSION=$(date -u +'%Y%m%d%H%M%S')
           cat <<EOF > json/version.json
           {
