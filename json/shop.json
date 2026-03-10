@@ -5306,8 +5306,8 @@
     "name_roman": "TOSHIMAEN",
     "lat": 35.742095311518966,
     "lon": 139.64890552357602,
-    "closing_date": null,
-    "opening_date": null
+    "closing_date": "2026-03-23 15:00",
+    "opening_date": "2026-04-09 10:00"
   },
   {
     "code": "0000000910",
@@ -10567,8 +10567,8 @@
   },
   {
     "code": "0000002283",
-    "name": "松屋 柏豊四季店",
-    "name_roman": "KASHIWATOYOSHIKI",
+    "name": "松屋 豊四季店",
+    "name_roman": "TOYOSHIKI",
     "lat": 35.86515318741541,
     "lon": 139.9373439026154,
     "closing_date": null,
