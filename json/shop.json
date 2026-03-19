@@ -6179,8 +6179,8 @@
     "name_roman": "SHIMONOSEKIHIEDA",
     "lat": 33.99477084519828,
     "lon": 130.9262583901141,
-    "closing_date": "2026-03-10 15:00",
-    "opening_date": "2026-03-18 15:00"
+    "closing_date": null,
+    "opening_date": null
   },
   {
     "code": "0000001717",
@@ -10581,7 +10581,7 @@
     "lat": 35.914761224191395,
     "lon": 140.18597296990822,
     "closing_date": null,
-    "opening_date": "2026-03-18 10:00"
+    "opening_date": null
   },
   {
     "code": "0000002306",
