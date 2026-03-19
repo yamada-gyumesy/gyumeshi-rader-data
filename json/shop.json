@@ -2462,8 +2462,8 @@
     "name_roman": "IKUTA",
     "lat": 35.6153220113111,
     "lon": 139.54242320433423,
-    "closing_date": null,
-    "opening_date": null
+    "closing_date": "2026-03-18 15:00",
+    "opening_date": "2026-04-07 10:00"
   },
   {
     "code": "0000000486",
@@ -2606,8 +2606,8 @@
     "name_roman": "OOTSUDOORINISHIKI",
     "lat": 35.172329346312104,
     "lon": 136.90619853877195,
-    "closing_date": "2026-03-16 15:00",
-    "opening_date": "2026-03-18 15:00"
+    "closing_date": null,
+    "opening_date": null
   },
   {
     "code": "0000000508",
