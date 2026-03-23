@@ -3651,8 +3651,8 @@
     "name_roman": "WAKOUSHIRAKO",
     "lat": 35.76838299098766,
     "lon": 139.6197777321505,
-    "closing_date": "2026-03-16 09:00",
-    "opening_date": "2026-03-20 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
