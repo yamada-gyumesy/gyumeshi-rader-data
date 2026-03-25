@@ -913,8 +913,8 @@
     "name_roman": "KANAYAMA",
     "lat": 35.14421629659524,
     "lon": 136.90295210290003,
-    "closing_date": "2026-03-23 22:00",
-    "opening_date": "2026-03-25 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
@@ -12737,7 +12737,7 @@
     "lat": 35.79671831645454,
     "lon": 139.29667326093403,
     "closing_date": null,
-    "opening_date": "2026-03-25 10:00",
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
