@@ -7504,8 +7504,8 @@
     "name_roman": "KAMISU",
     "lat": 35.89596529209036,
     "lon": 140.64726152580383,
-    "closing_date": "2026-03-25 00:00",
-    "opening_date": "2026-03-26 08:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
@@ -12629,7 +12629,7 @@
     "lat": 26.228446210548086,
     "lon": 127.70162680683492,
     "closing_date": null,
-    "opening_date": "2026-03-26 10:00",
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
@@ -12641,7 +12641,7 @@
     "lat": 35.37579101969676,
     "lon": 132.75191317965252,
     "closing_date": null,
-    "opening_date": "2026-03-26 10:00",
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
@@ -12713,7 +12713,7 @@
     "lat": 35.86515318741541,
     "lon": 139.9373439026154,
     "closing_date": null,
-    "opening_date": "2026-03-26 10:00",
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
