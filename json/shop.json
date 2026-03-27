@@ -12776,8 +12776,8 @@
     "name_roman": "KURUMESHIN'AIKAWA",
     "lat": 33.32010128093881,
     "lon": 130.54111944189373,
-    "closing_date": "2026-03-22",
-    "opening_date": "2026-03-27 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
