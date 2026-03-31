@@ -637,8 +637,8 @@
     "name_roman": "SHINJUKUMINAMIGUCHI",
     "lat": 35.690242785631476,
     "lon": 139.70202949931826,
-    "closing_date": "2026-02-23 15:00",
-    "opening_date": "2026-03-31 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
@@ -1853,8 +1853,8 @@
     "name_roman": "ATSUGI",
     "lat": 35.43593696751284,
     "lon": 139.3574528260542,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-04-09 15:00",
+    "opening_date": "2026-04-22 15:00",
     "brands": []
   },
   {
@@ -6317,8 +6317,8 @@
     "name_roman": "ICHIHARASHIROGANEDOORI",
     "lat": 35.52893409233367,
     "lon": 140.1058133931731,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-04-13 15:00",
+    "opening_date": "2026-04-28 10:00",
     "brands": []
   },
   {
@@ -8406,8 +8406,8 @@
     "name_roman": "KIYOSENOSHIO",
     "lat": 35.77471724030363,
     "lon": 139.50108929744573,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-04-13 15:00",
+    "opening_date": "2026-04-22 10:00",
     "brands": [
       "mycurry"
     ]
