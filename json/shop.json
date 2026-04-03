@@ -7842,8 +7842,8 @@
     "name_roman": "KASUGAIMINAMISHIMOHARACHOU",
     "lat": 35.27077000674975,
     "lon": 136.97430934935866,
-    "closing_date": "2026-03-17 15:00",
-    "opening_date": "2026-04-03 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
