@@ -3739,8 +3739,8 @@
     "name_roman": "OOTSU",
     "lat": 34.987415342368664,
     "lon": 135.88815660091956,
-    "closing_date": "2026-03-16 15:00",
-    "opening_date": "2026-04-08 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
