@@ -24,8 +24,8 @@ jobs:
       - name: Download JSON files from Google Drive
         run: |
           mkdir -p json
-          curl -sL "https://drive.google.com/uc?id=${{ inputs.shop_file_id }}&export=download" -o json/shop.json
-          curl -sL "https://drive.google.com/uc?id=${{ inputs.limited_file_id }}&export=download" -o json/limited.json
+          curl -sL "https://drive.google.com/uc?id=${{ inputs.shop_file_id }}&export=download&confirm=t" -o json/shop.json
+          curl -sL "https://drive.google.com/uc?id=${{ inputs.limited_file_id }}&export=download&confirm=t" -o json/limited.json
 
       - name: Validate JSON
         run: |
