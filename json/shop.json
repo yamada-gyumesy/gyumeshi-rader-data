@@ -2663,8 +2663,8 @@
     "name_roman": "SHINBASHISANCHOUME",
     "lat": 35.6659243439315,
     "lon": 139.75682806813202,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-04-26 22:00",
+    "opening_date": "2026-04-28 09:00",
     "brands": []
   },
   {
@@ -6307,7 +6307,9 @@
     "lon": 140.1058133931731,
     "closing_date": "2026-04-13 15:00",
     "opening_date": "2026-04-28 10:00",
-    "brands": []
+    "brands": [
+      "matsunoya"
+    ]
   },
   {
     "code": "0000000935",
@@ -8403,7 +8405,7 @@
     "closing_date": "2026-04-13 15:00",
     "opening_date": "2026-04-22 10:00",
     "brands": [
-      "mycurry"
+      "matsunoya"
     ]
   },
   {
