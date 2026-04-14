@@ -8030,8 +8030,8 @@
     "name_roman": "RITSUMEIKANDAIMAE",
     "lat": 35.03298472651458,
     "lon": 135.73119353823753,
-    "closing_date": "2026-03-31 15:00",
-    "opening_date": "2026-04-14 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
@@ -12775,7 +12775,7 @@
     "lat": 35.69138349889854,
     "lon": 139.69259922996744,
     "closing_date": null,
-    "opening_date": "2026-04-21 10:00",
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
