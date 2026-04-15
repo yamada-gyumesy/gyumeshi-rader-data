@@ -12257,6 +12257,18 @@
     ]
   },
   {
+    "code": "0000002234",
+    "name": "松屋 久喜本町店",
+    "name_roman": "KUKIHONCHOU",
+    "lat": 36.07389023057385,
+    "lon": 139.67226630540725,
+    "closing_date": null,
+    "opening_date": "2026-05-09 10:00",
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
     "code": "0000002235",
     "name": "松屋 奈良押熊店",
     "name_roman": "NARAOSHIKUMA",
