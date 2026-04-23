@@ -3889,8 +3889,8 @@
     "name_roman": "KAMEDAINTA",
     "lat": 37.88281130911176,
     "lon": 139.07468663892297,
-    "closing_date": "2026-04-21 00:00",
-    "opening_date": "2026-04-23 09:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
