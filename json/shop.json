@@ -2663,8 +2663,8 @@
     "name_roman": "SHINBASHISANCHOUME",
     "lat": 35.6659243439315,
     "lon": 139.75682806813202,
-    "closing_date": "2026-04-26 22:00",
-    "opening_date": "2026-04-28 09:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
@@ -3459,8 +3459,8 @@
     "name_roman": "AOTO",
     "lat": 35.74560454920769,
     "lon": 139.8557511836427,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-05-11 15:00",
+    "opening_date": "2026-05-28 10:00",
     "brands": []
   },
   {
@@ -6305,8 +6305,8 @@
     "name_roman": "ICHIHARASHIROGANEDOORI",
     "lat": 35.52893409233367,
     "lon": 140.1058133931731,
-    "closing_date": "2026-04-13 15:00",
-    "opening_date": "2026-04-28 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
@@ -7768,8 +7768,8 @@
     "name_roman": "FUJIYOSHIDA",
     "lat": 35.480062231921714,
     "lon": 138.78404341536046,
-    "closing_date": "2026-04-16 15:00",
-    "opening_date": "2026-04-28 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
@@ -8010,8 +8010,8 @@
     "name_roman": "ASAKAHIZAORI",
     "lat": 35.792125777993505,
     "lon": 139.5812228408211,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-05-11 15:00",
+    "opening_date": "2026-05-26 10:00",
     "brands": [
       "mycurry"
     ]
@@ -8084,8 +8084,8 @@
     "name_roman": "FUSSASHIMO",
     "lat": 35.736241337115665,
     "lon": 139.32827542117153,
-    "closing_date": "2026-04-10 15:00",
-    "opening_date": "2026-04-28 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
@@ -8212,8 +8212,8 @@
     "name_roman": "MINOWAMACHI",
     "lat": 35.888130670307596,
     "lon": 137.98744978151424,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-05-11 15:00",
+    "opening_date": "2026-05-22 10:00",
     "brands": []
   },
   {
@@ -12551,7 +12551,7 @@
     "lat": 34.66061808091485,
     "lon": 133.9293043297742,
     "closing_date": null,
-    "opening_date": "2026-04-28 10:00",
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
