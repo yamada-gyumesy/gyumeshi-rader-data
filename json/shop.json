@@ -3899,8 +3899,8 @@
     "name_roman": "GOKASHOU",
     "lat": 35.1616131144052,
     "lon": 136.19755388451503,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-05-12 18:00",
+    "opening_date": "2026-05-21 15:00",
     "brands": []
   },
   {
@@ -6731,8 +6731,8 @@
     "name_roman": "SAWARA",
     "lat": 35.89967920983395,
     "lon": 140.49354512079793,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-05-12 15:00",
+    "opening_date": "2026-05-26 10:00",
     "brands": []
   },
   {
@@ -12790,6 +12790,18 @@
     "lon": 139.69259922996744,
     "closing_date": null,
     "opening_date": null,
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002302",
+    "name": "松屋 宜野湾店",
+    "name_roman": "GINOWAN",
+    "lat": 26.27877517947915,
+    "lon": 127.77903706049824,
+    "closing_date": null,
+    "opening_date": "2026-05-22 10:00",
     "brands": [
       "matsunoya"
     ]
