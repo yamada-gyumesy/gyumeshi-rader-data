@@ -5313,8 +5313,8 @@
     "name_roman": "KADOMA",
     "lat": 34.73907109510763,
     "lon": 135.61276690722872,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-05-13 15:00",
+    "opening_date": "2026-05-28 18:00",
     "brands": [
       "mycurry"
     ]
@@ -8074,8 +8074,8 @@
     "name_roman": "TATSUNO",
     "lat": 34.852512436155486,
     "lon": 134.55220376243057,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-05-14 15:00",
+    "opening_date": "2026-05-27 10:00",
     "brands": []
   },
   {
