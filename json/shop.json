@@ -8212,8 +8212,8 @@
     "name_roman": "MINOWAMACHI",
     "lat": 35.888130670307596,
     "lon": 137.98744978151424,
-    "closing_date": "2026-05-11 15:00",
-    "opening_date": "2026-05-22 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
