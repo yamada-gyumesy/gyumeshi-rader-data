@@ -5081,8 +5081,8 @@
     "name_roman": "SAKURADAI",
     "lat": 35.73829895539794,
     "lon": 139.66252056766885,
-    "closing_date": "2026-04-17 15:00",
-    "opening_date": "2026-05-01 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
@@ -12022,8 +12022,8 @@
     "code": "0000002214",
     "name": "松屋 都島友渕町店",
     "name_roman": "MIYAKOJIMATOMOBUCHICHOU",
-    "lat": 34.712395474827495,
-    "lon": 135.5284081414732,
+    "lat": 34.71239447493445,
+    "lon": 135.52840814151924,
     "closing_date": null,
     "opening_date": null,
     "brands": [
@@ -12142,8 +12142,8 @@
     "code": "0000002224",
     "name": "松屋 8号長浜店",
     "name_roman": "HACHIGOUNAGAHAMA",
-    "lat": 35.38709251216041,
-    "lon": 136.28429729796022,
+    "lat": 35.387091512267354,
+    "lon": 136.28429729800627,
     "closing_date": null,
     "opening_date": null,
     "brands": [
