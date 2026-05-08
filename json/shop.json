@@ -1005,8 +1005,8 @@
     "name_roman": "UENO",
     "lat": 35.71002892475908,
     "lon": 139.77390461906742,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-05-18 15:00",
+    "opening_date": "2026-05-29 15:00",
     "brands": []
   },
   {
@@ -3307,8 +3307,8 @@
     "name_roman": "FUJIRAUNDOWAN",
     "lat": 35.15328458601796,
     "lon": 138.69254406134672,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-05-18 15:00",
+    "opening_date": "2026-05-29 10:00",
     "brands": []
   },
   {
@@ -6027,8 +6027,8 @@
     "name_roman": "SOTOKAN'YAO",
     "lat": 34.595044530577326,
     "lon": 135.614501395136,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-05-18 15:00",
+    "opening_date": "2026-06-03 18:00",
     "brands": [
       "mycurry"
     ]
@@ -12790,6 +12790,18 @@
     "lon": 139.69259922996744,
     "closing_date": null,
     "opening_date": null,
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002292",
+    "name": "松屋 諫早店",
+    "name_roman": "ISAHAYA",
+    "lat": 32.84071969745509,
+    "lon": 130.03397563368978,
+    "closing_date": null,
+    "opening_date": "2026-05-29 10:00",
     "brands": [
       "matsunoya"
     ]
