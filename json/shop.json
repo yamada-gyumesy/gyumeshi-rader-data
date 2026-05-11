@@ -4801,7 +4801,9 @@
     "lon": 141.41423792485978,
     "closing_date": "2026-05-11 15:00",
     "opening_date": "2026-06-03 09:00",
-    "brands": []
+    "brands": [
+      "matsunoya"
+    ]
   },
   {
     "code": "0000000749",
@@ -8015,7 +8017,7 @@
     "closing_date": "2026-05-11 15:00",
     "opening_date": "2026-05-26 10:00",
     "brands": [
-      "mycurry"
+      "matsunoya"
     ]
   },
   {
@@ -8214,9 +8216,11 @@
     "name_roman": "MINOWAMACHI",
     "lat": 35.888130670307596,
     "lon": 137.98744978151424,
-    "closing_date": null,
-    "opening_date": null,
-    "brands": []
+    "closing_date": "2026-05-11 15:00",
+    "opening_date": "2026-05-22 10:00",
+    "brands": [
+      "matsunoya"
+    ]
   },
   {
     "code": "0000001839",
