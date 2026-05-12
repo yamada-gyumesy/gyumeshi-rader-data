@@ -4271,8 +4271,8 @@
     "name_roman": "SENBAYASHIOOMIYA",
     "lat": 34.72387861327038,
     "lon": 135.54940086928502,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-05-25 15:00",
+    "opening_date": "2026-06-09 18:00",
     "brands": []
   },
   {
@@ -6779,8 +6779,8 @@
     "name_roman": "SUWA",
     "lat": 36.01765520374373,
     "lon": 138.1241314660408,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-05-28 15:00",
+    "opening_date": "2026-06-11 10:00",
     "brands": []
   },
   {
