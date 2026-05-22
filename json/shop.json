@@ -2869,8 +2869,8 @@
     "name_roman": "HIGASHIOOMIYAEKIMAE",
     "lat": 35.948862062499444,
     "lon": 139.64128463554738,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-06-04 15:00",
+    "opening_date": "2026-06-17 10:00",
     "brands": [
       "mycurry"
     ]
@@ -7736,8 +7736,8 @@
     "name_roman": "SHINOZAKI",
     "lat": 35.70492473406009,
     "lon": 139.90348109289025,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-06-03 15:00",
+    "opening_date": "2026-06-19 10:00",
     "brands": []
   },
   {
