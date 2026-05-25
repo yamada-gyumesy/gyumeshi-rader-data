@@ -241,8 +241,8 @@
     "name_roman": "TAMANYUTAUN",
     "lat": 35.62472139987428,
     "lon": 139.3932261622019,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-06-08 15:00",
+    "opening_date": "2026-06-23 10:00",
     "brands": []
   },
   {
@@ -2253,8 +2253,8 @@
     "name_roman": "SHINKEMIGAWA",
     "lat": 35.65166638671282,
     "lon": 140.07271749033472,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-06-08 15:00",
+    "opening_date": "2026-06-23 10:00",
     "brands": []
   },
   {
