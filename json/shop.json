@@ -6739,8 +6739,8 @@
     "name_roman": "SAWARA",
     "lat": 35.89967920983395,
     "lon": 140.49354512079793,
-    "closing_date": "2026-05-12 15:00",
-    "opening_date": "2026-05-26 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
@@ -8020,8 +8020,8 @@
     "name_roman": "ASAKAHIZAORI",
     "lat": 35.792125777993505,
     "lon": 139.5812228408211,
-    "closing_date": "2026-05-11 15:00",
-    "opening_date": "2026-05-26 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
