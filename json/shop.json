@@ -1005,8 +1005,8 @@
     "name_roman": "UENO",
     "lat": 35.71002892475908,
     "lon": 139.77390461906742,
-    "closing_date": "2026-05-18 15:00",
-    "opening_date": "2026-05-29 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
@@ -4477,8 +4477,8 @@
     "name_roman": "IWADE",
     "lat": 34.26299704419322,
     "lon": 135.32811546893424,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-06-15 15:00",
+    "opening_date": "2026-06-24 18:00",
     "brands": [
       "mycurry"
     ]
@@ -7232,8 +7232,8 @@
     "name_roman": "ASAKAHIGASHIGUCHI",
     "lat": 35.79757553751519,
     "lon": 139.60082696177295,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-06-15 15:00",
+    "opening_date": "2026-06-30 10:00",
     "brands": []
   },
   {
