@@ -463,8 +463,8 @@
     "name_roman": "HAKUSAN",
     "lat": 35.72254122044612,
     "lon": 139.7529517830309,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-06-15 15:00",
+    "opening_date": "2026-07-01 10:00",
     "brands": []
   },
   {
@@ -2872,7 +2872,7 @@
     "closing_date": "2026-06-04 15:00",
     "opening_date": "2026-06-17 10:00",
     "brands": [
-      "mycurry"
+      "matsunoya"
     ]
   },
   {
