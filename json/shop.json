@@ -13009,5 +13009,15 @@
     "brands": [
       "matsunoya"
     ]
+  },
+  {
+    "code": "0000002330",
+    "name": "松屋PREMIUM 銀座店",
+    "name_roman": "",
+    "lat": 35.6722318409271,
+    "lon": 139.7666549615777,
+    "closing_date": null,
+    "opening_date": null,
+    "brands": []
   }
 ]
