@@ -12771,6 +12771,18 @@
     ]
   },
   {
+    "code": "0000002279",
+    "name": "松屋 豊川八幡店",
+    "name_roman": "TOYOKAWAYAWATA",
+    "lat": 34.83309632886105,
+    "lon": 137.34690555903117,
+    "closing_date": null,
+    "opening_date": "2026-07-01 10:00",
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
     "code": "0000002280",
     "name": "松屋 羽田イノベーションシティ店",
     "name_roman": "HANEDAINOBESHONSHITI",
