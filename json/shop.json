@@ -467,7 +467,9 @@
     "lon": 139.7529517830309,
     "closing_date": "2026-06-15 15:00",
     "opening_date": "2026-07-01 10:00",
-    "brands": []
+    "brands": [
+      "matsunoya"
+    ]
   },
   {
     "code": "0000000128",
@@ -4484,7 +4486,7 @@
     "closing_date": "2026-06-15 15:00",
     "opening_date": "2026-06-24 18:00",
     "brands": [
-      "mycurry"
+      "matsunoya"
     ]
   },
   {
@@ -4799,7 +4801,9 @@
     "lon": 133.9233599054869,
     "closing_date": "2026-06-15 15:00",
     "opening_date": "2026-06-30 10:00",
-    "brands": []
+    "brands": [
+      "matsunoya"
+    ]
   },
   {
     "code": "0000000748",
@@ -5783,8 +5787,8 @@
     "name_roman": "TARUMI",
     "lat": 34.63007600983481,
     "lon": 135.05495625176667,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-06-29 15:00",
+    "opening_date": "2026-07-14 15:00",
     "brands": []
   },
   {
@@ -6307,8 +6311,8 @@
     "name_roman": "SONE",
     "lat": 34.77342297220644,
     "lon": 135.47258496741935,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-06-29 15:00",
+    "opening_date": "2026-07-15 18:00",
     "brands": []
   },
   {
@@ -7238,7 +7242,9 @@
     "lon": 139.60082696177295,
     "closing_date": "2026-06-15 15:00",
     "opening_date": "2026-06-30 10:00",
-    "brands": []
+    "brands": [
+      "mycurry"
+    ]
   },
   {
     "code": "0000001723",
