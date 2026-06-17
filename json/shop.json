@@ -2875,8 +2875,8 @@
     "name_roman": "HIGASHIOOMIYAEKIMAE",
     "lat": 35.948862062499444,
     "lon": 139.64128463554738,
-    "closing_date": "2026-06-04 15:00",
-    "opening_date": "2026-06-17 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
@@ -3281,8 +3281,8 @@
     "name_roman": "TENJIN",
     "lat": 33.59244664598584,
     "lon": 130.39772481006935,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-07-01 15:00",
+    "opening_date": "2026-07-06 15:00",
     "brands": []
   },
   {
@@ -7421,7 +7421,7 @@
     "lat": 35.712331610415376,
     "lon": 138.45326419102528,
     "closing_date": "2026-06-25 15:00",
-    "opening_date": "2026-07-08 10:00",
+    "opening_date": "2026-07-07 10:00",
     "brands": []
   },
   {
