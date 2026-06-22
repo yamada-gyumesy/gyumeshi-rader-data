@@ -7826,8 +7826,8 @@
     "name_roman": "MATSUDOMATSUHIDAI",
     "lat": 35.7837164087474,
     "lon": 139.96658722388295,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-07-03 15:00",
+    "opening_date": "2026-07-10 15:00",
     "brands": []
   },
   {
@@ -12712,6 +12712,18 @@
     "lon": 132.75191317965252,
     "closing_date": null,
     "opening_date": null,
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002271",
+    "name": "松屋 沼津東椎路店",
+    "name_roman": "NUMAZUHIGASHISHIIJI",
+    "lat": 35.11738589805198,
+    "lon": 138.83408195977054,
+    "closing_date": null,
+    "opening_date": "2026-07-11 10:00",
     "brands": [
       "matsunoya"
     ]
