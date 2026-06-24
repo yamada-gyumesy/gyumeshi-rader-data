@@ -4495,8 +4495,8 @@
     "name_roman": "IWADE",
     "lat": 34.26299704419322,
     "lon": 135.32811546893424,
-    "closing_date": "2026-06-15 15:00",
-    "opening_date": "2026-06-24 18:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
