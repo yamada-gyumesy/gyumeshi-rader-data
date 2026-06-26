@@ -75,8 +75,8 @@
     "name_roman": "TSURUMI",
     "lat": 35.5089067217216,
     "lon": 139.6757100350619,
-    "closing_date": "2026-06-24 15:00",
-    "opening_date": "2026-06-26 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
