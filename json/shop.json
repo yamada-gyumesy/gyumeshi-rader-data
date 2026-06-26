@@ -12986,10 +12986,10 @@
     "code": "0000002321",
     "name": "松屋 新百合ヶ丘店",
     "name_roman": "SHIN'YURIGAOKA",
-    "lat": 35.60491850244022,
-    "lon": 139.50683463898005,
+    "lat": 35.60491750254717,
+    "lon": 139.50683463902607,
     "closing_date": null,
-    "opening_date": "2026-06-26 10:00",
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
