@@ -465,8 +465,8 @@
     "name_roman": "HAKUSAN",
     "lat": 35.72254122044612,
     "lon": 139.7529517830309,
-    "closing_date": "2026-06-15 15:00",
-    "opening_date": "2026-07-01 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
@@ -12799,7 +12799,7 @@
     "lat": 34.83309632886105,
     "lon": 137.34690555903117,
     "closing_date": null,
-    "opening_date": "2026-07-01 10:00",
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
@@ -12920,6 +12920,18 @@
     "lon": 130.03397563368978,
     "closing_date": null,
     "opening_date": null,
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002293",
+    "name": "松屋 富里インター店",
+    "name_roman": "TOMISATOINTA",
+    "lat": 35.74451268330022,
+    "lon": 140.3147401153053,
+    "closing_date": null,
+    "opening_date": "2026-07-17 10:00",
     "brands": [
       "matsunoya"
     ]
