@@ -929,8 +929,8 @@
     "name_roman": "NAKAMURABASHI",
     "lat": 35.73744461846356,
     "lon": 139.63799964344875,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-07-17 15:00",
+    "opening_date": "2026-07-24 15:00",
     "brands": []
   },
   {
@@ -3295,8 +3295,8 @@
     "name_roman": "TENJIN",
     "lat": 33.59244664598584,
     "lon": 130.39772481006935,
-    "closing_date": "2026-07-01 15:00",
-    "opening_date": "2026-07-06 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
