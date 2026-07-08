@@ -909,8 +909,8 @@
     "name_roman": "KANAYAMA",
     "lat": 35.14421629659524,
     "lon": 136.90295210290003,
-    "closing_date": "2026-07-01 15:00",
-    "opening_date": "2026-07-08 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
@@ -2835,8 +2835,8 @@
     "name_roman": "HAKATAEKIMAEDOORI",
     "lat": 33.58981320784963,
     "lon": 130.4137655991576,
-    "closing_date": "2026-07-03 15:00",
-    "opening_date": "2026-07-08 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "mycurry"
     ]
