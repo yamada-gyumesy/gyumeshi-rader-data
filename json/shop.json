@@ -9230,8 +9230,8 @@
     "name_roman": "ASAKUSABASHIMINAMI",
     "lat": 35.695464671500865,
     "lon": 139.7847213913808,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-07-23 15:00",
+    "opening_date": "2026-08-07 10:00",
     "brands": [
       "mycurry"
     ]
@@ -12824,10 +12824,10 @@
     "code": "0000002281",
     "name": "松屋 石岡店",
     "name_roman": "ISHIOKA",
-    "lat": 36.19050153523666,
-    "lon": 140.28927469384914,
+    "lat": 36.19050053534362,
+    "lon": 140.28927469389518,
     "closing_date": null,
-    "opening_date": "2026-07-08 10:00",
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
