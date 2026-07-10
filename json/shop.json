@@ -6329,7 +6329,9 @@
     "lon": 135.47258496741935,
     "closing_date": "2026-06-29 15:00",
     "opening_date": "2026-07-15 18:00",
-    "brands": []
+    "brands": [
+      "matsunoya"
+    ]
   },
   {
     "code": "0000000934",
@@ -7844,8 +7846,8 @@
     "name_roman": "MATSUDOMATSUHIDAI",
     "lat": 35.7837164087474,
     "lon": 139.96658722388295,
-    "closing_date": "2026-07-03 15:00",
-    "opening_date": "2026-07-10 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
@@ -13020,6 +13022,18 @@
     "lon": 139.5068346390721,
     "closing_date": null,
     "opening_date": null,
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002323",
+    "name": "松屋 新松戸店",
+    "name_roman": "SHINMATSUDO",
+    "lat": 35.82646894742055,
+    "lon": 139.91572147962145,
+    "closing_date": null,
+    "opening_date": "2026-08-01 10:00",
     "brands": [
       "matsunoya"
     ]
