@@ -5803,8 +5803,8 @@
     "name_roman": "TARUMI",
     "lat": 34.63007600983481,
     "lon": 135.05495625176667,
-    "closing_date": "2026-06-29 15:00",
-    "opening_date": "2026-07-14 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
@@ -9178,8 +9178,8 @@
     "name_roman": "URAWANAKACHOU",
     "lat": 35.859952819956156,
     "lon": 139.6554635519827,
-    "closing_date": "2026-07-07 15:00",
-    "opening_date": "2026-07-14 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
