@@ -12052,8 +12052,8 @@
     "code": "0000002214",
     "name": "松屋 都島友渕町店",
     "name_roman": "MIYAKOJIMATOMOBUCHICHOU",
-    "lat": 34.71238647579005,
-    "lon": 135.52840814188755,
+    "lat": 34.712385475896994,
+    "lon": 135.5284081419336,
     "closing_date": null,
     "opening_date": null,
     "brands": [
@@ -12590,8 +12590,8 @@
     "code": "0000002260",
     "name": "松屋 仙台一番町店",
     "name_roman": "SENDAIICHIBANCHOU",
-    "lat": 38.26213411600546,
-    "lon": 140.87115597719298,
+    "lat": 38.262133116112416,
+    "lon": 140.87115597723903,
     "closing_date": null,
     "opening_date": null,
     "brands": [
@@ -12927,7 +12927,7 @@
     "lat": 35.744507683834975,
     "lon": 140.3147401155355,
     "closing_date": null,
-    "opening_date": "2026-07-17 10:00",
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
@@ -12964,6 +12964,18 @@
     "lon": 139.29667326093403,
     "closing_date": null,
     "opening_date": null,
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002307",
+    "name": "松屋 一宮尾西店",
+    "name_roman": "ICHINOMIYABISAI",
+    "lat": 35.310077796727256,
+    "lon": 136.74498758432722,
+    "closing_date": null,
+    "opening_date": "2026-08-08 10:00",
     "brands": [
       "matsunoya"
     ]
