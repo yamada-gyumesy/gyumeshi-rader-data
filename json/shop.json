@@ -4429,7 +4429,9 @@
     "lon": 130.44169245623888,
     "closing_date": "2026-07-23 15:00",
     "opening_date": "2026-08-07 10:00",
-    "brands": []
+    "brands": [
+      "matsunoya"
+    ]
   },
   {
     "code": "0000000704",
@@ -9225,7 +9227,7 @@
     "closing_date": "2026-07-23 15:00",
     "opening_date": "2026-08-07 10:00",
     "brands": [
-      "mycurry"
+      "matsunoya"
     ]
   },
   {
