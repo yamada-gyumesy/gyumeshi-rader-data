@@ -12582,8 +12582,8 @@
     "name_roman": "OKAYAMAOMOTECHOU",
     "lat": 34.66061808091485,
     "lon": 133.9293043297742,
-    "closing_date": "2026-07-28 23:00",
-    "opening_date": "2026-07-29 17:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
