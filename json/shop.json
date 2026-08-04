@@ -157,7 +157,7 @@
     "name_roman": "MUSASHIMURAYAMA",
     "lat": 35.74834941783927,
     "lon": 139.40704032228024,
-    "closing_date": null,
+    "closing_date": "2026-09-01 09:00",
     "opening_date": null,
     "brands": []
   },
@@ -795,8 +795,8 @@
     "name_roman": "HONGOUSANCHOUME",
     "lat": 35.706217099447784,
     "lon": 139.76056390252398,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-08-19 15:00",
+    "opening_date": "2026-09-04 10:00",
     "brands": []
   },
   {
@@ -1817,7 +1817,9 @@
     "lon": 139.59151599250703,
     "closing_date": "2026-08-04 15:00",
     "opening_date": "2026-09-18 10:00",
-    "brands": []
+    "brands": [
+      "matsunoya"
+    ]
   },
   {
     "code": "0000000339",
@@ -13002,6 +13004,18 @@
     "lon": 139.36929073935212,
     "closing_date": null,
     "opening_date": null,
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002319",
+    "name": "松屋 武蔵村山店",
+    "name_roman": "MUSASHIMURAYAMA",
+    "lat": 35.74884633859391,
+    "lon": 139.40554642346558,
+    "closing_date": null,
+    "opening_date": "2026-09-01 10:00",
     "brands": [
       "matsunoya"
     ]
