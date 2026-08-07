@@ -4429,8 +4429,8 @@
     "name_roman": "FUTAMATASE",
     "lat": 33.60769978249755,
     "lon": 130.44169245623888,
-    "closing_date": "2026-07-23 15:00",
-    "opening_date": "2026-08-07 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
@@ -9226,8 +9226,8 @@
     "name_roman": "ASAKUSABASHIMINAMI",
     "lat": 35.695464671500865,
     "lon": 139.7847213913808,
-    "closing_date": "2026-07-23 15:00",
-    "opening_date": "2026-08-07 10:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
