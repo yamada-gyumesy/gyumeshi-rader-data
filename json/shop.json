@@ -9050,7 +9050,7 @@
     "name_roman": "URUMAISHIKAWA",
     "lat": 26.428676999461395,
     "lon": 127.82790409964365,
-    "closing_date": "2026-08-07",
+    "closing_date": null,
     "opening_date": null,
     "brands": [
       "matsunoya"
@@ -9388,7 +9388,7 @@
     "name_roman": "CHATANMIHAMA",
     "lat": 26.316158850693096,
     "lon": 127.76013290907439,
-    "closing_date": "2026-08-07",
+    "closing_date": null,
     "opening_date": null,
     "brands": [
       "matsunoya"
@@ -9640,7 +9640,7 @@
     "name_roman": "URUMAAKAMICHI",
     "lat": 26.355258912622894,
     "lon": 127.83135719353149,
-    "closing_date": "2026-08-07",
+    "closing_date": null,
     "opening_date": null,
     "brands": [
       "matsunoya"
@@ -10775,7 +10775,7 @@
     "name_roman": "TOMISHIRO",
     "lat": 26.173111519126103,
     "lon": 127.66670125535288,
-    "closing_date": "2026-08-07",
+    "closing_date": null,
     "opening_date": null,
     "brands": [
       "matsunoya"
@@ -11818,7 +11818,7 @@
     "name_roman": "NAHASHINTOSHIN",
     "lat": 26.224141568279514,
     "lon": 127.69574749332135,
-    "closing_date": "2026-08-07",
+    "closing_date": null,
     "opening_date": null,
     "brands": [
       "mycurry"
@@ -12512,7 +12512,7 @@
     "name_roman": "HAEBARU",
     "lat": 26.19578513340481,
     "lon": 127.72621026913707,
-    "closing_date": "2026-08-07",
+    "closing_date": null,
     "opening_date": null,
     "brands": [
       "matsunoya"
@@ -12702,7 +12702,7 @@
     "name_roman": "NAHAFURUJIMA",
     "lat": 26.228446210548086,
     "lon": 127.70162680683492,
-    "closing_date": "2026-08-07",
+    "closing_date": null,
     "opening_date": null,
     "brands": [
       "matsunoya"
@@ -12954,7 +12954,7 @@
     "name_roman": "GINOWAN",
     "lat": 26.27877517947915,
     "lon": 127.77903706049824,
-    "closing_date": "2026-08-07",
+    "closing_date": null,
     "opening_date": null,
     "brands": [
       "matsunoya"
@@ -13110,7 +13110,7 @@
     "name_roman": "OKINAWACHIBANA",
     "lat": 26.366373450751983,
     "lon": 127.81572497998431,
-    "closing_date": "2026-08-07",
+    "closing_date": null,
     "opening_date": null,
     "brands": [
       "matsunoya"
@@ -13134,7 +13134,7 @@
     "name_roman": "NAHAOROKU",
     "lat": 26.199148801890956,
     "lon": 127.67057873439956,
-    "closing_date": "2026-08-07",
+    "closing_date": null,
     "opening_date": null,
     "brands": [
       "matsunoya"
