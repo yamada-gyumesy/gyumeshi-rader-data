@@ -347,8 +347,8 @@
     "name_roman": "MACHIDA",
     "lat": 35.541941211012556,
     "lon": 139.44800942426022,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-09-02 15:00",
+    "opening_date": "2026-09-15 15:00",
     "brands": []
   },
   {
@@ -603,8 +603,8 @@
     "name_roman": "KAWASAKIGINZAGAI",
     "lat": 35.53138875678386,
     "lon": 139.70088590900383,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-09-04 15:00",
+    "opening_date": "2026-09-14 15:00",
     "brands": []
   },
   {
@@ -6157,8 +6157,8 @@
     "name_roman": "TOSHIMAEN",
     "lat": 35.742095311518966,
     "lon": 139.64890552357602,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-09-01 08:00",
+    "opening_date": "2026-09-03 10:00",
     "brands": [
       "matsunoya"
     ]
@@ -13036,8 +13036,8 @@
     "code": "0000002319",
     "name": "松屋 武蔵村山店",
     "name_roman": "MUSASHIMURAYAMA",
-    "lat": 35.74884233900424,
-    "lon": 139.4055454237328,
+    "lat": 35.748841339111195,
+    "lon": 139.40554542377882,
     "closing_date": null,
     "opening_date": "2026-09-01 10:00",
     "brands": [
