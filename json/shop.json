@@ -9392,8 +9392,8 @@
     "name_roman": "CHATANMIHAMA",
     "lat": 26.316158850693096,
     "lon": 127.76013290907439,
-    "closing_date": "2026-08-24 15:00",
-    "opening_date": "2026-08-27 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
