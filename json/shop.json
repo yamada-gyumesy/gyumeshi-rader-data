@@ -1635,8 +1635,8 @@
     "name_roman": "SENDAGI",
     "lat": 35.72444019535862,
     "lon": 139.76314384914747,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-09-25 15:00",
+    "opening_date": "2026-10-05 15:00",
     "brands": []
   },
   {
@@ -8994,8 +8994,8 @@
     "name_roman": "TAKAMATSUHYOUGOMACHI",
     "lat": 34.34631579595208,
     "lon": 134.0493608317888,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-09-25 15:00",
+    "opening_date": "2026-10-05 15:00",
     "brands": []
   },
   {
