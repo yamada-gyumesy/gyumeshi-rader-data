@@ -238,14 +238,6 @@
     ]
   },
   {
-    "campaign_id": "c_campain08",
-    "name": "デビルチキン",
-    "start_date": "2026-09-01 10:00",
-    "shops": [
-      "0000002194"
-    ]
-  },
-  {
     "campaign_id": "c_campain20",
     "name": "うな丼",
     "start_date": "2026-08-25 10:00",
