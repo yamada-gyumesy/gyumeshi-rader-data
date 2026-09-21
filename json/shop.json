@@ -9242,8 +9242,8 @@
     "name_roman": "MAKUHARIINTA",
     "lat": 35.67107558194894,
     "lon": 140.03099706144818,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-10-04 15:00",
+    "opening_date": "2026-10-09 15:00",
     "brands": [
       "matsunoya",
       "mycurry"
