@@ -13109,6 +13109,18 @@
     ]
   },
   {
+    "code": "0000002328",
+    "name": "松屋 宇治弐番店",
+    "name_roman": "UJINIBAN",
+    "lat": 34.88656356698347,
+    "lon": 135.79870067404943,
+    "closing_date": null,
+    "opening_date": "2026-10-10 10:00",
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
     "code": "0000002329",
     "name": "松屋 下関長府店",
     "name_roman": "SHIMONOSEKICHOUFU",
@@ -13224,6 +13236,18 @@
     "lon": 139.06219589342896,
     "closing_date": null,
     "opening_date": null,
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002607",
+    "name": "松屋 八代店",
+    "name_roman": "YATSUSHIRO",
+    "lat": 32.50927094551012,
+    "lon": 130.5947993199288,
+    "closing_date": null,
+    "opening_date": "2026-10-15 10:00",
     "brands": [
       "matsunoya"
     ]
