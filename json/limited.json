@@ -528,7 +528,7 @@
   {
     "campaign_id": "c_campain32",
     "name": "秋のポイント還元祭",
-    "start_date": null,
+    "start_date": "2026-10-01 00:00",
     "shops": [
       "0000000327",
       "0000001724",
