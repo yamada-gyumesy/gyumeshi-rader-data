@@ -6367,8 +6367,8 @@
     "name_roman": "HIGASHITOTSUKANISHIGUCHI",
     "lat": 35.431236932337185,
     "lon": 139.55565758175047,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-10-13 15:00",
+    "opening_date": "2026-10-23 15:00",
     "brands": []
   },
   {
@@ -7518,8 +7518,8 @@
     "name_roman": "KAMISU",
     "lat": 35.89596529209036,
     "lon": 140.64726152580383,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-10-13 15:00",
+    "opening_date": "2026-10-22 15:00",
     "brands": []
   },
   {
@@ -8298,8 +8298,8 @@
     "name_roman": "HIRATSUKAKITAKANAME",
     "lat": 35.36755101781828,
     "lon": 139.28507198616788,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-10-13 15:00",
+    "opening_date": "2026-10-22 15:00",
     "brands": []
   },
   {
