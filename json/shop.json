@@ -13101,6 +13101,18 @@
     ]
   },
   {
+    "code": "0000002327",
+    "name": "松屋 千葉仁戸名店",
+    "name_roman": "CHIBANITONA",
+    "lat": 35.58118851544706,
+    "lon": 140.16376617410094,
+    "closing_date": null,
+    "opening_date": "2026-10-20 10:00",
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
     "code": "0000002328",
     "name": "松屋 宇治弐番店",
     "name_roman": "UJINIBAN",
