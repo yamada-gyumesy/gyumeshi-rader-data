@@ -12921,6 +12921,18 @@
     ]
   },
   {
+    "code": "0000002294",
+    "name": "松屋 旭川永山店",
+    "name_roman": "ASAHIKAWANAGAYAMA",
+    "lat": 43.79938784517081,
+    "lon": 142.41674764467993,
+    "closing_date": null,
+    "opening_date": "2026-11-01 10:00",
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
     "code": "0000002297",
     "name": "松屋 壬生店",
     "name_roman": "MIBU",
@@ -12976,6 +12988,18 @@
     "lon": 139.42999723941261,
     "closing_date": null,
     "opening_date": null,
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002305",
+    "name": "松屋 可児店",
+    "name_roman": "KANI",
+    "lat": 35.416273451534416,
+    "lon": 137.03201285717424,
+    "closing_date": null,
+    "opening_date": "2026-10-30 10:00",
     "brands": [
       "matsunoya"
     ]
@@ -13255,6 +13279,28 @@
     "brands": [
       "matsunoya"
     ]
+  },
+  {
+    "code": "0000002608",
+    "name": "松屋 久喜菖蒲店",
+    "name_roman": "KUKISHOUBU",
+    "lat": 36.072031398701384,
+    "lon": 139.61325929147938,
+    "closing_date": null,
+    "opening_date": "2026-10-27 10:00",
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002610",
+    "name": "松屋 大正駅前店",
+    "name_roman": "TAISHOUEKIMAE",
+    "lat": 34.664442728759994,
+    "lon": 135.47830751035318,
+    "closing_date": null,
+    "opening_date": "2026-11-07 10:00",
+    "brands": []
   },
   {
     "code": "0000002614",
