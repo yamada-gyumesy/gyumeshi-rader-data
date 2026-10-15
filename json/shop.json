@@ -755,8 +755,8 @@
     "name_roman": "MUSASHISHINJOU",
     "lat": 35.58696758461349,
     "lon": 139.63061618561633,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-10-29 15:00",
+    "opening_date": "2026-11-06 15:00",
     "brands": []
   },
   {
@@ -13120,6 +13120,18 @@
     "lon": 139.91572147971354,
     "closing_date": null,
     "opening_date": null,
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002326",
+    "name": "松屋 大川店",
+    "name_roman": "OOKAWA",
+    "lat": 33.20308699918477,
+    "lon": 130.3809531316876,
+    "closing_date": null,
+    "opening_date": "2026-11-05 10:00",
     "brands": [
       "matsunoya"
     ]
