@@ -5259,8 +5259,8 @@
     "name_roman": "SHOUNAI",
     "lat": 34.74947257205131,
     "lon": 135.47476588913383,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-10-27 15:00",
+    "opening_date": "2026-11-09 15:00",
     "brands": []
   },
   {
@@ -13287,7 +13287,7 @@
     "lat": 32.50927094551012,
     "lon": 130.5947993199288,
     "closing_date": null,
-    "opening_date": "2026-10-15 10:00",
+    "opening_date": null,
     "brands": [
       "matsunoya"
     ]
