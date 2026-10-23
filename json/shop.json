@@ -223,8 +223,8 @@
     "name_roman": "OOMIYAHIGASHIGUCHI",
     "lat": 35.90784816155036,
     "lon": 139.62480689256574,
-    "closing_date": "2026-10-19 15:00",
-    "opening_date": "2026-10-23 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
@@ -6347,8 +6347,8 @@
     "name_roman": "HIGASHITOTSUKANISHIGUCHI",
     "lat": 35.431236932337185,
     "lon": 139.55565758175047,
-    "closing_date": "2026-10-13 15:00",
-    "opening_date": "2026-10-23 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
