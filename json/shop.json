@@ -4997,8 +4997,8 @@
     "name_roman": "KAWAGUCHIEKIMAE",
     "lat": 35.80142517462104,
     "lon": 139.71812404309355,
-    "closing_date": "2026-10-19 15:00",
-    "opening_date": "2026-10-27 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
@@ -8888,8 +8888,8 @@
     "name_roman": "SATERAITOANJOU",
     "lat": 34.98028389858837,
     "lon": 137.0785760660431,
-    "closing_date": null,
-    "opening_date": null,
+    "closing_date": "2026-11-10 15:00",
+    "opening_date": "2026-11-25 15:00",
     "brands": []
   },
   {
