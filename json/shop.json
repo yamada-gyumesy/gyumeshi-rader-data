@@ -7644,8 +7644,8 @@
     "code": "0000001769",
     "name": "松屋 溝の口南口店",
     "name_roman": "MIZONOKUCHIMINAMI",
-    "lat": 35.598797964172896,
-    "lon": 139.61028932899282,
+    "lat": 35.598656981907375,
+    "lon": 139.61044132286162,
     "closing_date": null,
     "opening_date": null,
     "brands": []
@@ -12114,8 +12114,8 @@
     "code": "0000002221",
     "name": "松屋 小松日の出町店",
     "name_roman": "KOMATSUHINODECHOU",
-    "lat": 36.3976904153448,
-    "lon": 136.45589651205412,
+    "lat": 36.39687549405647,
+    "lon": 136.45541258976792,
     "closing_date": null,
     "opening_date": null,
     "brands": [
@@ -13176,8 +13176,8 @@
     "code": "0000002326",
     "name": "松屋 大川店",
     "name_roman": "OOKAWA",
-    "lat": 33.203086999167304,
-    "lon": 130.3809521317706,
+    "lat": 33.20308699914984,
+    "lon": 130.38095113185366,
     "closing_date": null,
     "opening_date": "2026-11-05 10:00",
     "brands": [
