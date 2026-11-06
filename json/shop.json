@@ -755,8 +755,8 @@
     "name_roman": "MUSASHISHINJOU",
     "lat": 35.58696758461349,
     "lon": 139.63061618561633,
-    "closing_date": "2026-10-29 15:00",
-    "opening_date": "2026-11-06 15:00",
+    "closing_date": null,
+    "opening_date": null,
     "brands": []
   },
   {
