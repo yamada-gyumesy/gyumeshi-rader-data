@@ -12983,6 +12983,18 @@
     ]
   },
   {
+    "code": "0000002298",
+    "name": "松屋 加須店",
+    "name_roman": "KAZO",
+    "lat": 36.12632456604815,
+    "lon": 139.6118039123235,
+    "closing_date": null,
+    "opening_date": "2026-12-22 10:00",
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
     "code": "0000002299",
     "name": "松屋 松阪鎌田町店",
     "name_roman": "MATSUSAKAKAMADACHOU",
@@ -13062,6 +13074,18 @@
     "lon": 136.74498758437326,
     "closing_date": null,
     "opening_date": null,
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002308",
+    "name": "松屋 岐阜柳津店",
+    "name_roman": "GIFUYANAIZU",
+    "lat": 35.36136907457447,
+    "lon": 136.73147634462686,
+    "closing_date": null,
+    "opening_date": "2026-12-19 10:00",
     "brands": [
       "matsunoya"
     ]
@@ -13355,6 +13379,30 @@
     ]
   },
   {
+    "code": "0000002600",
+    "name": "松屋 北広島店",
+    "name_roman": "KITAHIROSHIMA",
+    "lat": 42.981551248530046,
+    "lon": 141.5538239684239,
+    "closing_date": null,
+    "opening_date": "2026-12-18 10:00",
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
+    "code": "0000002606",
+    "name": "松屋 宇和島店",
+    "name_roman": "UWAJIMA",
+    "lat": 33.20724556557405,
+    "lon": 132.55708521440454,
+    "closing_date": null,
+    "opening_date": "2026-12-18 10:00",
+    "brands": [
+      "matsunoya"
+    ]
+  },
+  {
     "code": "0000002607",
     "name": "松屋 八代店",
     "name_roman": "YATSUSHIRO",
@@ -13399,6 +13447,16 @@
     "brands": [
       "matsunoya"
     ]
+  },
+  {
+    "code": "0000002619",
+    "name": "松屋 板宿南店",
+    "name_roman": "ITAYADOMINAMI",
+    "lat": 34.657492494735706,
+    "lon": 135.1361012503082,
+    "closing_date": null,
+    "opening_date": "2026-12-19 10:00",
+    "brands": []
   },
   {
     "code": "0000002622",
